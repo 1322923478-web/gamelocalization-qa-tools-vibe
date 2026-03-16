@@ -1,0 +1,10 @@
+openai
+pandas
+openpyxl
+python-dotenv
+pydantic
+loguru
+faiss-cpu
+sentence-transformers
+pytest
+streamlit
